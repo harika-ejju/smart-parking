@@ -1,0 +1,16 @@
+# Updated requirements.txt
+streamlit==1.22.0
+streamlit-option-menu==0.3.2
+# tailwindcss-stream==0.1.1  # Commented out problematic package
+pandas==1.5.3
+numpy==1.24.3
+pillow==9.5.0
+requests==2.29.0
+python-dotenv==1.0.0
+pytz==2023.3
+plotly==5.14.1
+pydeck==0.8.0
+SQLAlchemy==2.0.12
+opencv-python==4.7.0.72
+scikit-learn==1.2.2
+qrcode==7.4.2
